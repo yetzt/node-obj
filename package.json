@@ -1,0 +1,31 @@
+{
+  "name": "opj",
+  "version": "1.0.0",
+  "description": "persistant objects",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yetzt/node-obj.git"
+  },
+  "keywords": [
+    "object",
+    "json",
+    "persistant",
+    "config",
+    "file"
+  ],
+  "author": "yetzt <node@yetzt.me>",
+  "license": "Unlicense",
+  "bugs": {
+    "url": "https://github.com/yetzt/node-obj/issues"
+  },
+  "homepage": "https://github.com/yetzt/node-obj#readme",
+  "dependencies": {
+    "debug": "^4.1.1",
+    "observe": "^1.4.1",
+    "on-change": "^1.0.0"
+  }
+}
