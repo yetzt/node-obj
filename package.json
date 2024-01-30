@@ -24,7 +24,7 @@
   },
   "homepage": "https://github.com/yetzt/node-obj#readme",
   "dependencies": {
-    "debug": "^4.1.1",
+    "debug": "^4.3.4",
     "observe": "^1.4.1",
     "on-change": "^1.0.0"
   }
